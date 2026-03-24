@@ -69,7 +69,7 @@ let urlsToCache = [
     "./Build/hktruffled.data.part2",
     "./Build/hktruffled.data.part12",
     "./Build/hktruffled.data.part33",
-    "./StreamingAssets/BuildMetadata.json",
+    "./StreamingAssets/BuildMetadata.json"
 ];
 
 // Cache all the selected items once application is installed.
